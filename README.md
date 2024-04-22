@@ -10,7 +10,7 @@ https://github.com/suxls/MazeGeneration/assets/138140316/56decf55-2046-452d-9a8d
 - Suport Rendering color base on a cell's distance from the starting point / ending point
   
 - Supports Breadth First Search (BFS) and Depth First Search (DFS) to traverse through the maze
-  - Error count displays number of time player / computer move towards a cell not in the shortest solution path 
+  - Error count displays the number of times the player / computer move towards a cell not in the shortest solution path 
   
 - Supports manual playing across the maze
   - arrow keys for player movement
