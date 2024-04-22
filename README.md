@@ -1,5 +1,5 @@
 # MazeGeneration
-Northeastern Accelerated Fundamentals To Computer Science II Project
+### Northeastern Accelerated Fundamentals To Computer Science II Project
 (Direct contact me for code source) 
 
 https://github.com/suxls/MazeGeneration/assets/138140316/56decf55-2046-452d-9a8d-8834a8b3f972
@@ -16,5 +16,5 @@ https://github.com/suxls/MazeGeneration/assets/138140316/56decf55-2046-452d-9a8d
   - arrow keys for player movement
   - allows user to toggle display previously visited path
 
-Note: 
+**Note**: 
 Since this assignment belongs to Northeastern's CS2510 course. By instructor policy, source code can only be accessed by request.
